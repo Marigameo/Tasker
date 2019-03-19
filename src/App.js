@@ -15,8 +15,8 @@ class App extends Component {
   };
 
   componentDidMount() {
-    Axios.get("https://jsonplaceholder.typicode.com/todos?_limit=5").then(res =>
-      this.setState({ todos: res.data })
+    Axios.get("https://jsonplaceholder.typicode.com/todos?_limit=10").then(
+      res => this.setState({ todos: res.data })
     );
   }
 
