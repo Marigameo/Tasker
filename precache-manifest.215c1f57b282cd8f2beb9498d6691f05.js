@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/Tasker/static/js/runtime~main.5cd0db9d.js"
   },
   {
-    "revision": "12c6fa0fa897cc13c168",
-    "url": "/Tasker/static/js/main.9745fdbb.chunk.js"
+    "revision": "258f6b409cf0bdec3db9",
+    "url": "/Tasker/static/js/main.f99a47da.chunk.js"
   },
   {
     "revision": "578be1edce25b38dbf5a",
     "url": "/Tasker/static/js/2.7850536c.chunk.js"
   },
   {
-    "revision": "12c6fa0fa897cc13c168",
+    "revision": "258f6b409cf0bdec3db9",
     "url": "/Tasker/static/css/main.fe2cdd3f.chunk.css"
   },
   {
-    "revision": "411ca151b8a5c642e11ea207e7d6787d",
+    "revision": "bd8797a3ff402cfaf3f38c59a92dd697",
     "url": "/Tasker/index.html"
   }
 ];
