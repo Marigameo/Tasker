@@ -19,6 +19,7 @@ export class AddTodo extends Component {
         <input
           type="text"
           name="title"
+          required="true"
           placeholder="Add todo item here ..."
           style={{ flex: "10", padding: "5px" }}
           value={this.state.title}
